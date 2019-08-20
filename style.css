@@ -1,0 +1,78 @@
+
+.header{
+    text-align: center;
+    background-color: #81D4FA;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+    
+}
+body{
+    background: linear-gradient(#81D4FA, #0D47A1    ) fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.header h1{
+    font-size: 7rem;
+    font-family:Helvetica, sans-serif;
+}
+
+.text{
+    height: 35px;
+    width: 20rem;
+    border-radius: 15px ;
+    border-style: none;
+    padding: 8px;
+    
+    
+    
+}
+
+.btn{
+    margin-bottom: 5px;
+    background-color: #000;
+    color: #fff;
+    font-style: bold;
+    border-radius: 15px;
+}
+
+
+.card{
+    max-width: 100%;
+    width: 50%;
+    margin: auto;
+    
+}
+
+.card ul{
+    text-align: center;
+    border-style: none;
+}
+
+ul{
+    list-style: none;
+    
+    
+   
+}
+span{
+    background-color: #000;
+    border-radius: 10px;
+    color: #fff;
+    margin: 5px;
+    padding: 0 10px;
+}
+
+li{
+    margin-bottom: 2px;
+    
+}
+.but{
+    float: right;
+    margin-right: 5px;
+    background-color: #000;
+    
+    
+    
+}
+
